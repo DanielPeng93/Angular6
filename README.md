@@ -1,1 +1,1 @@
-# Angular6
+# This repo is my assignments and course projects for Angular 6

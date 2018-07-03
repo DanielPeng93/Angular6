@@ -1,0 +1,11 @@
+.success-alert-box {
+  border : 1px solid black;
+  padding-top: 7px;
+}
+
+.success-alert-content {
+  color : green;
+  font-size : 20px;
+  font-wight: 600;
+  text-align: center;
+}
